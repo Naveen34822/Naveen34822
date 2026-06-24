@@ -67,9 +67,11 @@ Problems Solved:
 
 ## 🎯 Current Mission
 
-□ Codeforces 1300+
+□ Codeforces 1400+
 
-□ 450+ LeetCode Problems
+□ CodeChef 3★
+
+□ 750+ LeetCode Problems
 
 □ Master Graphs & Dynamic Programming
 
