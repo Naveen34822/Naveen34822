@@ -53,7 +53,7 @@ LeetCode:
   Rating: 1651
 
 Codeforces:
-  Rating: 1144
+  Rating: Pupil(1306)
 
 CodeChef:
   Stars: 2★
