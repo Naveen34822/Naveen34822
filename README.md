@@ -50,10 +50,10 @@ C++ based Retrieval-Augmented Generation system implementing HNSW indexing, vect
 
 ```yaml
 LeetCode:
-  Rating: 1651
+  Rating: 1704
 
 Codeforces:
-  Rating: Pupil(1306)
+  Rating: Pupil(1364)
 
 CodeChef:
   Stars: 2★
