@@ -1,10 +1,10 @@
-<!-- ========================================= -->
-<!--              HERO SECTION                 -->
-<!-- ========================================= -->
+<!-- ====================================================== -->
+<!--                 HERO SECTION                           -->
+<!-- ====================================================== -->
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=320&color=gradient&customColorList=6,12,20,24,30&text=Naveen%20Kalera&fontColor=ffffff&fontSize=58&animation=fadeIn&fontAlignY=38&desc=Aspiring%20Software%20Engineer%20•%20Full%20Stack%20Developer%20•%20Competitive%20Programmer&descAlignY=58"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&customColorList=6,12,20,24,30&text=Naveen%20Kalera&fontColor=ffffff&fontSize=58&animation=fadeIn&fontAlignY=38&desc=Aspiring%20Software%20Engineer%20•%20Full%20Stack%20Developer%20•%20Competitive%20Programmer&descAlignY=60"/>
 
 </div>
 
@@ -12,7 +12,7 @@
 
 # 👋 Hey, I'm Naveen Kalera
 
-### 💻 Aspiring Software Engineer • Full Stack Developer • Competitive Programmer
+### 💻 Aspiring Software Engineer | Full Stack Developer | Competitive Programmer
 
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1200&color=58A6FF&center=true&vCenter=true&width=900&lines=Building+Scalable+Software;Full+Stack+Developer;Codeforces+Specialist;Backend+Enthusiast;Open+Source+Learner;Always+Learning+🚀"/>
 
@@ -23,19 +23,19 @@
 <div align="center">
 
 <a href="https://github.com/Naveen34822">
-<img src="https://img.shields.io/github/followers/Naveen34822?logo=github&style=for-the-badge&color=181717">
+<img src="https://img.shields.io/github/followers/Naveen34822?logo=github&style=for-the-badge&color=181717"/>
 </a>
 
 <a href="https://www.linkedin.com/in/naveen-kalera-a76801286/">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="mailto:naveenkalera4523@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <a href="https://github.com/Naveen34822">
-<img src="https://komarev.com/ghpvc/?username=Naveen34822&style=for-the-badge&color=blueviolet">
+<img src="https://komarev.com/ghpvc/?username=Naveen34822&style=for-the-badge&color=blueviolet"/>
 </a>
 
 </div>
@@ -44,7 +44,7 @@
 
 # 💫 About Me
 
-<img align="right" width="340" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2VjMG9hMmdxaXltaDBzNnA2aHV2ZXAwYnJsdW96bTRubTJybzJ4eCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l0HlNaQ6gWfllcjDO/giphy.gif"/>
+<img align="right" width="330" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2VjMG9hMmdxaXltaDBzNnA2aHV2ZXAwYnJsdW96bTRubTJybzJ4eCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l0HlNaQ6gWfllcjDO/giphy.gif"/>
 
 ```cpp
 class Developer {
@@ -81,10 +81,10 @@ public:
 ### 🚀 Currently
 
 - 💻 Building Full Stack Applications
-- 🌱 Learning System Design & Backend
+- 🌱 Learning Backend & System Design
 - 🤖 Exploring LLMs & RAG
-- ⚔️ Competitive Programming
-- 🚀 Preparing for SDE Roles
+- ⚔️ Solving DSA & Competitive Programming Problems
+- 🎯 Preparing for Software Development Engineer (SDE) Roles
 
 ---
 
@@ -94,67 +94,22 @@ public:
 
 <img src="https://skillicons.dev/icons?i=cpp,c,python,js,react,nodejs,express,mongodb,mysql"/>
 
-<br>
+<br><br>
 
 <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,docker,linux"/>
 
 </div>
 
 ---
-
-# 🏆 Competitive Programming
-
-<div align="center">
-
-| Platform | Achievement |
-|----------|-------------|
-| 💙 Codeforces | **Specialist (1488)** |
-| 🟡 LeetCode | **Rating 1766** |
-| 🟤 CodeChef | **2★ (1460)** |
-| 🚀 DSA & Competitive Programming | **1200+ Problems Solved** |
-
-</div>
-
----
-
-# ⚡ Quick Highlights
-
-```text
-💻 Aspiring Software Engineer
-
-🚀 Full Stack Developer
-
-🧠 Backend Enthusiast
-
-💙 Codeforces Specialist
-
-🟡 LeetCode 1766
-
-⚛️ MERN Stack
-
-📚 1200+ DSA & CP Problems Solved
-
-☁️ Learning System Design
-```
-
----
-
-<p align="center">
-
-> **"Code. Learn. Build. Repeat."**
-
-</p>
-
----
-<!-- ========================================= -->
-<!--          FEATURED PROJECTS                -->
-<!-- ========================================= -->
+<!-- ====================================================== -->
+<!--                 FEATURED PROJECTS                      -->
+<!-- ====================================================== -->
 
 # 🚀 Featured Projects
 
 <div align="center">
 
-### Building scalable software with modern technologies and AI.
+### Turning ideas into impactful software with modern technologies.
 
 </div>
 
@@ -167,21 +122,22 @@ public:
 
 ## 🤖 HireLens
 
-### AI-Powered Interview Preparation Platform
+> **AI-powered interview preparation platform built using the MERN Stack and Gemini AI.**
 
-<img src="https://img.shields.io/badge/Status-Active-success?style=flat-square"/>
+<br>
 
-### 🌟 Key Features
+### ✨ Key Features
 
 - 📄 ATS Resume Analysis
 - 🎤 AI Mock Interviews
-- 📊 Skill Gap Detection
+- 📊 Skill Gap Analysis
+- 🧠 AI Interview Evaluation
 - 🛣 Personalized Learning Roadmap
-- 💬 AI Interview Feedback
-- 🤖 LLM-powered Evaluation
 - 🔐 Secure Authentication
 
-### ⚙️ Tech Stack
+<br>
+
+### 🛠 Tech Stack
 
 <p>
 
@@ -189,28 +145,16 @@ public:
 
 </p>
 
-### 🚀 Highlights
-
-✔ Resume Parsing
-
-✔ Job Description Matching
-
-✔ AI-based Candidate Evaluation
-
-✔ Personalized Roadmap Generation
-
-✔ Modern Responsive UI
-
 <br>
 
 <p align="center">
 
-<a href="YOUR_HIRELENS_GITHUB_LINK">
-<img src="https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github">
+<a href="https://github.com/Naveen34822/GenAi-Project-with-MERN">
+<img src="https://img.shields.io/badge/💻_Source_Code-181717?style=for-the-badge&logo=github&logoColor=white">
 </a>
 
-<a href="YOUR_HIRELENS_LIVE_LINK">
-<img src="https://img.shields.io/badge/Live_Demo-3B82F6?style=for-the-badge&logo=vercel">
+<a href="https://gen-ai-project-with-mern.vercel.app/">
+<img src="https://img.shields.io/badge/🚀_Live_Demo-2563EB?style=for-the-badge&logo=vercel&logoColor=white">
 </a>
 
 </p>
@@ -221,21 +165,21 @@ public:
 
 ## 🧠 Naveen RAG Engine
 
-### High Performance Retrieval-Augmented Generation Engine
+> **A high-performance Retrieval-Augmented Generation (RAG) engine built in C++ with local LLM support.**
 
-<img src="https://img.shields.io/badge/Status-Active-blue?style=flat-square"/>
+<br>
 
-### 🌟 Key Features
+### ✨ Key Features
 
-- 📚 Local Document Question Answering
-- 🧠 Semantic Search
+- 📚 Semantic Search
 - ⚡ HNSW Indexing
-- 📦 Vector Database
+- 🗄️ Custom Vector Database
 - 🤖 Ollama Integration
 - 💬 Local LLM Inference
-- 🚀 Fast Document Retrieval
 
-### ⚙️ Tech Stack
+<br>
+
+### 🛠 Tech Stack
 
 <p>
 
@@ -243,24 +187,12 @@ public:
 
 </p>
 
-### 🚀 Highlights
-
-✔ Custom Vector Database
-
-✔ HNSW Search
-
-✔ KD Tree Search
-
-✔ Brute Force Search
-
-✔ Fully Local AI Pipeline
-
 <br>
 
 <p align="center">
 
-<a href="YOUR_RAG_GITHUB_LINK">
-<img src="https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github">
+<a href="https://github.com/Naveen34822/naveen-rag-engine">
+<img src="https://img.shields.io/badge/💻_Source_Code-181717?style=for-the-badge&logo=github&logoColor=white">
 </a>
 
 </p>
@@ -268,6 +200,7 @@ public:
 </td>
 
 </tr>
+
 </table>
 
 ---
@@ -279,24 +212,24 @@ public:
 | 💻 Software Engineering | 🤖 AI & LLMs |
 |------------------------|-------------|
 | Backend Development | Large Language Models |
-| System Design | Retrieval-Augmented Generation |
-| REST APIs | AI Applications |
-| Scalable Software | Prompt Engineering |
+| REST APIs | Retrieval-Augmented Generation |
+| Authentication | AI Applications |
+| System Design | Prompt Engineering |
 
 </div>
 
 ---
 
-# 💡 Core Expertise
+# 🛠 Core Expertise
 
 <div align="center">
 
-| 💻 Development | ⚙️ Backend | 🚀 Competitive Programming |
-|---------------|------------|----------------------------|
-| MERN Stack | Node.js & Express | Codeforces Specialist |
-| React.js | REST APIs | LeetCode 1766 |
-| MongoDB | Authentication | 1200+ Problems Solved |
-| Git & Docker | System Design | Problem Solving |
+| Frontend | Backend | AI | Programming |
+|----------|---------|----|-------------|
+| React.js | Node.js | LLMs | C++ |
+| JavaScript | Express.js | RAG | Python |
+| HTML/CSS | MongoDB | Ollama | SQL |
+| Git | REST APIs | Vector Search | DSA |
 
 </div>
 
@@ -304,16 +237,16 @@ public:
 
 <div align="center">
 
-### 💬 Philosophy
+### 💡 Philosophy
 
-> **"I enjoy building scalable software, solving algorithmic problems, and creating products that make a real impact."**
+> **"I believe great software comes from solving real problems with clean architecture, scalable systems, and continuous learning."**
 
 </div>
 
 ---
-<!-- ========================================= -->
-<!--          GITHUB ANALYTICS                 -->
-<!-- ========================================= -->
+<!-- ====================================================== -->
+<!--                 GITHUB ANALYTICS                       -->
+<!-- ====================================================== -->
 
 # 📊 GitHub Analytics
 
@@ -329,7 +262,7 @@ public:
 
 <div align="center">
 
-<img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=Naveen34822&theme=tokyonight&hide_border=true"/>
+<img width="75%" src="https://github-readme-streak-stats.herokuapp.com/?user=Naveen34822&theme=tokyonight&hide_border=true"/>
 
 </div>
 
@@ -349,65 +282,26 @@ public:
 
 <div align="center">
 
-<table>
-
-<tr>
-
-<td align="center" width="25%">
-
-<h3>💙 Codeforces</h3>
-
-<b>Specialist</b>
-
-⭐ Rating: <b>1488</b>
-
-</td>
-
-<td align="center" width="25%">
-
-<h3>🟡 LeetCode</h3>
-
-<b>Contest Rating</b>
-
-⭐ Rating: <b>1766</b>
-
-</td>
-
-<td align="center" width="25%">
-
-<h3>🟤 CodeChef</h3>
-
-<b>2★ Coder</b>
-
-⭐ Rating: <b>1460</b>
-
-</td>
-
-<td align="center" width="25%">
-
-<h3>🚀 Problem Solving</h3>
-
-<b>1200+</b>
-
-DSA & CP Problems Solved
-
-</td>
-
-</tr>
-
-</table>
+| Platform | Achievement |
+|:---------|:------------|
+| 💙 **Codeforces** | Specialist (1488) |
+| 🟡 **LeetCode** | Contest Rating **1766** |
+| 🟤 **CodeChef** | **2★** Coder (1460) |
+| 🚀 **Problem Solving** | **1200+ DSA & CP Problems Solved** |
 
 </div>
 
 ---
 
-# 📌 Developer Snapshot
+# 💼 Technical Skills
 
 <div align="center">
 
-| 💻 Languages | 🚀 Backend | 🤖 AI | ⚔️ Competitive Programming |
-|:------------:|:----------:|:-----:|:--------------------------:|
-| C++ • Python • JavaScript | Node.js • Express • MongoDB | LLMs • RAG | 1200+ Problems Solved |
+| Languages | Backend | Databases | AI |
+|------------|----------|-----------|-----|
+| C++ | Node.js | MongoDB | LLMs |
+| JavaScript | Express.js | MySQL | RAG |
+| Python | REST APIs | SQL | Ollama |
 
 </div>
 
@@ -415,70 +309,42 @@ DSA & CP Problems Solved
 
 <div align="center">
 
-| 🎯 Current Goal | 🌱 Learning | ❤️ Interests |
-|:---------------:|:-----------:|:------------:|
-| Software Development Engineer (SDE) | System Design • Backend Engineering | Open Source • AI Applications • Competitive Programming |
+| Tools | Development | Learning |
+|--------|-------------|----------|
+| Git | Full Stack Development | System Design |
+| GitHub | API Development | Backend Engineering |
+| Docker | Problem Solving | Scalable Systems |
+| VS Code | Clean Architecture | Open Source |
 
 </div>
 
 ---
 
-# 🌟 Highlights
+# 🎯 Career Objective
 
 <div align="center">
 
-| 🏆 Achievement | Details |
-|:--------------:|:-------:|
-| 💻 Full Stack Developer | React • Node.js • MongoDB |
-| 🤖 AI Projects | HireLens & RAG Engine |
-| ⚔️ Competitive Programmer | Codeforces Specialist |
-| 📚 Problem Solving | 1200+ DSA & CP Problems |
-| 🚀 Career Goal | Software Development Engineer |
+> Passionate about building scalable software, solving algorithmic problems, and developing AI-powered applications. Currently seeking opportunities as a **Software Development Engineer (SDE)** where I can contribute, learn, and grow while building impactful products.
 
 </div>
 
 ---
+<!-- ====================================================== -->
+<!--              ACHIEVEMENTS & CONTACT                    -->
+<!-- ====================================================== -->
+
+# 🏆 Achievements
 
 <div align="center">
 
-### 💡 Developer Philosophy
-
-> **"Write clean code. Solve meaningful problems. Keep learning every day."**
-
-</div>
-
----
-<!-- ========================================= -->
-<!--         ACHIEVEMENTS & CONTACT            -->
-<!-- ========================================= -->
-
-# 🏅 Achievements
-
-<div align="center">
-
-| 🏆 Achievement | Details |
-|:--------------:|:-------:|
+| Achievement | Details |
+|:-----------:|:-------:|
 | 💙 Codeforces | Specialist (1488) |
-| 🟡 LeetCode | Contest Rating 1766 |
-| 🟤 CodeChef | 2★ Coder (1460) |
-| 🚀 Problem Solving | 1200+ DSA & CP Problems |
-| 💻 Projects | HireLens • RAG Engine |
-| 🎯 Career Goal | Software Development Engineer |
-
-</div>
-
----
-
-# 🌱 Currently Learning
-
-<div align="center">
-
-| 💻 Backend | ☁️ System Design | 🤖 AI |
-|:----------:|:---------------:|:----:|
-| Node.js | Low Level Design | LLM Applications |
-| Express.js | High Level Design | RAG Systems |
-| Authentication | Distributed Systems | AI Integration |
-| Database Design | Scalability | Prompt Engineering |
+| 🟡 LeetCode | Contest Rating **1766** |
+| 🟤 CodeChef | **2★** Coder (1460) |
+| 🚀 Problem Solving | **1200+ DSA & CP Problems Solved** |
+| 🤖 AI Projects | HireLens • Naveen RAG Engine |
+| 💻 Career Goal | Software Development Engineer |
 
 </div>
 
@@ -489,30 +355,43 @@ DSA & CP Problems Solved
 <div align="center">
 
 <a href="https://github.com/Naveen34822">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <a href="https://www.linkedin.com/in/naveen-kalera-a76801286/">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="mailto:naveenkalera4523@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail"/>
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="YOUR_PORTFOLIO_LINK">
-<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel"/>
+<!-- Replace with your portfolio -->
+<a href="https://your-portfolio.vercel.app">
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 
 </div>
 
 ---
 
-# 💭 Quote I Live By
+# 📄 Resume
 
 <div align="center">
 
-> **"The best way to predict the future is to build it."**
+<a href="YOUR_RESUME_LINK">
+<img src="https://img.shields.io/badge/📄_View_Resume-2563EB?style=for-the-badge"/>
+</a>
+
+</div>
+
+---
+
+# 👀 Profile Views
+
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=Naveen34822&style=for-the-badge&color=0e75b6"/>
 
 </div>
 
@@ -520,13 +399,23 @@ DSA & CP Problems Solved
 
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=Naveen34822&style=for-the-badge&color=blue"/>
+## 💬 Quote
+
+*"Code with purpose. Build with passion. Learn without limits."*
+
+</div>
+
+---
+
+<div align="center">
 
 ### ⭐ Thanks for visiting my profile!
 
-*"Always learning. Always building. Always improving."*
+If you like my work, consider ⭐ starring my repositories.
 
 </div>
+
+---
 
 <div align="center">
 
