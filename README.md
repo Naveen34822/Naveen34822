@@ -56,7 +56,7 @@ public:
     string role = "Aspiring Software Engineer";
 
     string college =
-    "J.C. Bose University of Science and Technology";
+    "J.C. Bose University of Science and Technology , YMCA";
 
     vector<string> interests = {
 
